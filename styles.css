@@ -26,7 +26,7 @@ body {
 
 .navbar-brand {
      
-    font-family: "Ubuntu";
+    font-family: "Marcellus";
     font-size: 2.5rem;
     font-weight: bold;
     color:rgb(131, 99, 251);
@@ -44,12 +44,12 @@ body {
 .nav-link {
 
     font-size: 1.2rem;
-    font-family: 'Montserrat-light', sans-serif;
+    font-family: 'Marcellus', sans-serif;
     color: white;
 }
 
 h1 {
-    font-family: "Ubuntu", sans-serif;
+    font-family: "Marcellus", sans-serif;
     font-weight: bold;
     color: white;
     font-size: 3.2rem;
@@ -61,20 +61,20 @@ h1 {
 }
 
 h2 {
-    font-family: "Ubuntu", sans-serif;
+    font-family: "Marcellus", sans-serif;
     font-size: 3rem;
     line-height: 4rem;
 }
 
 h3 {
-    font-family: "Ubuntu", sans-serif;
+    font-family: "Marcellus", sans-serif;
     color: black;
     font-weight: bold;
     font-size: 1.5rem;
 }
 
 p {
-    font-family: "Ubuntu", sans-serif;
+    font-family: "Marcellus", sans-serif;
     font-size: 1.1rem;
     color:#8f8f8f;
 }
