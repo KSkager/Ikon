@@ -90,9 +90,11 @@ p {
 .title-img {
     position: absolute;
     z-index: 0; 
+    margin-top: 0%;
     right: 20%; 
-    width: 21%; 
-    transform: rotate(15deg) 
+    width: 25%; 
+    
+    /*  transform: rotate(15deg) */
     
 }
 
