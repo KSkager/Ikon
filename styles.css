@@ -199,11 +199,11 @@ p {
 
 .video {
     position:relative;
-justify-content: center;
-border-radius: 5%;
-width: 100%;
-min-height: 100vh;
-display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
 }
 
 .cta-box {
