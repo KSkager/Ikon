@@ -1,11 +1,10 @@
-
 body {
     font-family: 'Marcellus', serif;
     color: #fff;
 }
 
 #title {
-    color: rgb(51, 16, 223);
+    color: rgb(50, 16, 223);
     background-color:  rgb(0, 4, 4);
     border-radius:  0% 0% 5% 5%;
     /* position: relative;
@@ -39,6 +38,7 @@ body {
 
 .nav-item {
     padding: 0 18px;
+    
 }
 
 .nav-link {
@@ -192,17 +192,18 @@ p {
 #cta {
     text-align: center;
     color: #fff;
-    background-color: rgb(0, 1, 1);
+    position: relative;
     border-radius: 5%;
-    padding: 7%;
+    padding: 0%;
+    
 }
 
 .video {
-    position:relative;
-    justify-content: center;
+   position:relative; 
+  /*   justify-content: center;*/
     border-radius: 5%;
     width: 100%;
-    min-height: 100vh;
+    min-height: 90vh;
     display: flex;
 }
 
